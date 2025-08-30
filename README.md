@@ -30,6 +30,7 @@ Avoid extracting following features that have been previously tried but were red
 
 Below are the execution errors encountered in previous attempts. Avoid similar mistakes in future implementations:
 {previous_errors}
+```
 
 ## References
 
